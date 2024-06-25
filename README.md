@@ -1,6 +1,8 @@
 # 3D Terrain
 A simple C++ + SFML 3D Terrain
 
+![3dterrain](https://github.com/mateocervilla/3DTerrain/assets/68401037/319ee0c3-08a6-42e3-bad9-6b9151b85b2c)
+
 ## Table of contents
 * [Requirements](#requirements)
 * [Build](#build)
